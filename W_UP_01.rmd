@@ -45,7 +45,8 @@ Because numerical is explained by categorical means that the T test was used
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
-
+  
+This plot shows that on average skill players tend to do more pushups in 2 minutes than do the line players. The bottom of the barrel in skill box is above the top of the barrel for the line box.
 
 ### Numerical Descriptive Results
 
